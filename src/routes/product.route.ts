@@ -5,7 +5,7 @@ export const productRoute = (req: IncomingMessage, res: ServerResponse) => {
   //   console.log(req.method);
 
   const url = req.url;
-  console.log("Product:", url);
+  //   console.log("Product:", url);
   const method = req.method;
 
   if (method === "GET" && url === "/") {
