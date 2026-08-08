@@ -9,8 +9,10 @@ export const productController = (
   const method = req.method;
 
   if (method === "GET" && url === "/") {
-    readProduct();
+    const products = readProduct();
     res.writeHead(200, { "content-type": "application/json" });
-    res.end(JSON.stringify({ message: "This is product route" }));
+    res.end(
+      JSON.stringify({ message: "This is product route", data: products }),
+    );
   }
 };
