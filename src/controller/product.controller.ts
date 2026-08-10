@@ -15,4 +15,4 @@ export const productController = (
       JSON.stringify({ message: "This is product route", data: products }),
     );
   }
-};
+}
