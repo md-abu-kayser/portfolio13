@@ -1,0 +1,7 @@
+POST http://localhost:5000/products
+Content-Type : application/json
+
+{
+    "name": "Iphone 17",
+    "color": "pink"
+}
