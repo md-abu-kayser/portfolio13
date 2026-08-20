@@ -1,5 +1,5 @@
 import { IncomingMessage, ServerResponse } from "http";
-import { productController } from "../controller/products.controller";
+import { productController } from "../controller/product.controller";
 
 export const productRoute = (req: IncomingMessage, res: ServerResponse) => {
   //   console.log(req.url); // '/'
