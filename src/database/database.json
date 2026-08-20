@@ -1,12 +1,7 @@
 [
-  {
-    "id": 1,
-    "name": "T-shirt",
-    "color": "Yello"
-  },
-  {
-    "id": 2,
-    "name": "Shirt",
-    "color": "Red"
-  }
+  { "id": 2, "name": "T-shirt", "color": "Green" },
+  { "id": 1764346868446, "name": "Thala" },
+  { "id": 1764346990759, "name": "Thala" },
+  { "id": 1764348207177, "name": "Iphone 17", "color": "orange" },
+  { "id": 1764348344663, "name": "Iphone 17", "color": "pink" }
 ]
