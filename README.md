@@ -208,9 +208,19 @@ These boundaries make the repository a useful foundation for incrementally evolv
 | `npm run dev`      | Starts the server with file watching              |
 | `npx tsc --noEmit` | Type-checks the project without generating output |
 
-## License
+### License
 
-Distributed under the ISC License. See [`LICENSE`](LICENSE) for details.
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+- **Name:** Md Abu Kayser
+- **Project:** _bare-metal-nodejs-server_
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 ## Author
 
