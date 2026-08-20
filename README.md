@@ -2,7 +2,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-6.x-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-native_HTTP-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/license-ISC-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 A lightweight, dependency-free product REST API built directly on Node.js's native `http` module and TypeScript. This project demonstrates how to design a clean HTTP request flow, parse JSON bodies, implement CRUD operations, and persist data without Express or a database server.
 
